@@ -47,6 +47,7 @@
   </a>
 </p>
 
+<h1 align="left">Statistics:</h1>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariogs5&show_icons=true&locale=en&layout=compact" alt="mariogs5" />
 </p>
