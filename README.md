@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">A passionate game developer from Spain</h3>
 
-<h1 align="center"><a href="https://mariogs5.github.io/Portfolio/" target="_blank" rel="noreferrer">Portfolio</a></h3>
+<h1 align="center"><a href="https://mariogs5.github.io/" target="_blank" rel="noreferrer">Portfolio</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
